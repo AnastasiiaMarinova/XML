@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"??>
 <INFO>
   <film>Harry potter</film>
   <serial>game of Thrones</serial>
@@ -7,4 +7,6 @@
   <country>Spain</pets>
 </INFO>
  
+
+
 
