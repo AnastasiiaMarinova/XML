@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<cat> 
+<title>Client can login in employee app</title>
+<company>cleanME</company>
+<str>opem employee app</str>
+<version> ios 15.4.1</version>
+<model>iphone13</model>
+<bild>0.5.7</bild>
+<Actualresult>Client is assigned the employee's role and can login in app</Actualresult>
+<expectedResult>Client has no rules for it , he sees the messege with this information</expectedResult>
+    <severity>critical</severity>
+    <priority>High</priority>
+    <author>Anastasiia Marinova</author>
+    <signTo>developer</signTo>
+</cat>
