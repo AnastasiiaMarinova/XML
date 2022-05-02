@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8"??>
+<?xml version="1.0" ?>
 <INFO>
   <film>Harry potter</film>
   <serial>game of Thrones</serial>
   <food>tomatoes</food>
   <season>autumn</season>
-  <country>Spain</pets>
+  <country>Spain</country>
 </INFO>
  
-
-
-
