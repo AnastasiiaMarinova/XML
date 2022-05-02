@@ -3,6 +3,6 @@
   <firstName>Anastasiia</firstName>
   <lastName>Marinova</lastName>
   <age>32</age>
-  <pets null ) "true"/>
+  <pets null = "true"/>
   <salary>46000</salary>
 </INFO>
